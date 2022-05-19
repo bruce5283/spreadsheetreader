@@ -1,0 +1,16 @@
+{
+  "kind": "column",
+  "name": "Customized interaction chart",
+  "description": "",
+  "author": "https://www.w3schools.com/",
+  "params": [
+    {
+      "name": "userID",
+      "displayName": "userID",
+      "type": "string"
+    }
+    ],
+  "result": {
+    "type": "string"
+  }
+}
